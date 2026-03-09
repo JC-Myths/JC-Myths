@@ -11,7 +11,8 @@
 <p align="center">
   <a href="https://x.com/SunshiningDay"><img src="https://img.shields.io/badge/𝕏-@SunshiningDay-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://x.com/MythsLabs"><img src="https://img.shields.io/badge/𝕏-@MythsLabs-000000?style=for-the-badge&logo=x&logoColor=white" alt="Myths Labs" /></a>
-  <a href="https://linkedin.com/company/mythslabs/"><img src="https://img.shields.io/badge/LinkedIn-Myths_Labs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/jeremyhmchou"><img src="https://img.shields.io/badge/LinkedIn-JC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/company/mythslabs/"><img src="https://img.shields.io/badge/LinkedIn-Myths_Labs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Myths Labs LinkedIn" /></a>
 </p>
 
 ---
@@ -36,7 +37,7 @@
       <p><strong>The "digital condom" for online consent.</strong></p>
       <p>iOS app that generates legally-binding digital consent certificates with blockchain timestamping. 36-day solo build from zero to App Store.</p>
       <p>
-        <a href="https://apps.apple.com/app/do-you-agree/id6741070780"><img src="https://img.shields.io/badge/📱_App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
+        <a href="https://apps.apple.com/app/do-you-agree-intimate-safety/id6758056964"><img src="https://img.shields.io/badge/📱_App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
       </p>
       <p><em>Solo-built: iOS (Swift) + Supabase + AntChain + BSC</em></p>
     </td>
