@@ -83,5 +83,6 @@ I believe in building in public, shipping fast, and proving that one developer w
 
 <p align="center">
   <a href="https://prometheus.mythslabs.ai"><strong>🔥 prometheus.mythslabs.ai</strong></a> ·
+  <a href="https://doyouagree.app"><strong>🛡️ doyouagree.app</strong></a> ·
   <a href="https://x.com/SunshiningDay"><strong>𝕏 @SunshiningDay</strong></a>
 </p>
