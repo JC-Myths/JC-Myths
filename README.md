@@ -64,7 +64,11 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JC-Myths&show_icons=true&theme=dark&bg_color=0a0f1a&title_color=00d4aa&icon_color=c9a84c&text_color=a8b8d0&border_color=1a2035" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JC-Myths&theme=dark&background=0a0f1a&ring=00d4aa&fire=c9a84c&currStreakLabel=00d4aa&border=1a2035" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JC-Myths&color=00d4aa&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
