@@ -33,7 +33,7 @@
       <p><em>Solo-built: SDK + marketplace + payments + voice pipeline</em></p>
     </td>
     <td width="33%" valign="top">
-      <h3>🎭 MUSE</h3>
+      <h3>🌀 MUSE</h3>
       <p><strong>AI coding OS — cross-session memory that never forgets.</strong></p>
       <p>Open-source pure-Markdown framework for AI coding assistants. Constitution, memory layers, 54 skills, and workflows that survive context limits. Works with Claude Code, Cursor, Windsurf.</p>
       <p>
@@ -95,6 +95,6 @@ I believe in building in public, shipping fast, and proving that one developer w
 <p align="center">
   <a href="https://prometheus.mythslabs.ai"><strong>🔥 prometheus.mythslabs.ai</strong></a> ·
   <a href="https://doyouagree.app"><strong>🛡️ doyouagree.app</strong></a> ·
-  <a href="https://github.com/myths-labs/muse"><strong>🎭 MUSE</strong></a> ·
+  <a href="https://github.com/myths-labs/muse"><strong>🌀 MUSE</strong></a> ·
   <a href="https://x.com/SunshiningDay"><strong>𝕏 @SunshiningDay</strong></a>
 </p>
