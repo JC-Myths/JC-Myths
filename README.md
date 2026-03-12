@@ -5,7 +5,7 @@
 <h2 align="center">Hey, I'm JC 👋</h2>
 
 <p align="center">
-  <strong>Solo indie developer. Building AI embodiment & digital consent tools.</strong>
+  <strong>Solo indie developer. Building AI embodiment, digital consent, and open-source dev tooling.</strong>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🔥 Prometheus Avatar SDK</h3>
       <p><strong>Give your AI an embodied avatar — in 3 lines of code.</strong></p>
       <p>Open-source SDK for driving Live2D & 3D avatars with any LLM. Real-time lip-sync, emotion expressions, multi-language TTS, and a creator marketplace.</p>
@@ -32,7 +32,18 @@
       </p>
       <p><em>Solo-built: SDK + marketplace + payments + voice pipeline</em></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>🎭 MUSE</h3>
+      <p><strong>AI coding OS — cross-session memory that never forgets.</strong></p>
+      <p>Open-source pure-Markdown framework for AI coding assistants. Constitution, memory layers, 54 skills, and workflows that survive context limits. Works with Claude Code, Cursor, Windsurf.</p>
+      <p>
+        <a href="https://github.com/myths-labs/muse"><img src="https://img.shields.io/github/stars/myths-labs/muse?style=flat-square&color=c9a84c" alt="Stars" /></a>
+        <a href="https://github.com/myths-labs/muse"><img src="https://img.shields.io/badge/version-2.5-blue?style=flat-square" alt="v2.5" /></a>
+        <a href="https://github.com/myths-labs/muse"><img src="https://img.shields.io/badge/skills-54-green?style=flat-square" alt="54 skills" /></a>
+      </p>
+      <p><em>Pure Markdown. Zero dependencies. Born from building the other two.</em></p>
+    </td>
+    <td width="33%" valign="top">
       <h3>🛡️ Do You Agree (DYA)</h3>
       <p><strong>The "digital condom" for online consent.</strong></p>
       <p>iOS app that generates legally-binding digital consent certificates with blockchain timestamping. 36-day solo build from zero to App Store.</p>
@@ -77,12 +88,13 @@
 
 > *"Like Prometheus bringing fire to humanity — we bring embodiment to AI."*
 
-I believe in building in public, shipping fast, and proving that one developer with the right tools can compete with funded teams. Every line of code I write is a bet on the future of AI-human interaction.
+I believe in building in public, shipping fast, and proving that one developer with the right tools can compete with funded teams. Every line of code I write is a bet on the future of AI-human interaction. MUSE is the operating system I built along the way — because even AI assistants need a brain that remembers.
 
 ---
 
 <p align="center">
   <a href="https://prometheus.mythslabs.ai"><strong>🔥 prometheus.mythslabs.ai</strong></a> ·
   <a href="https://doyouagree.app"><strong>🛡️ doyouagree.app</strong></a> ·
+  <a href="https://github.com/myths-labs/muse"><strong>🎭 MUSE</strong></a> ·
   <a href="https://x.com/SunshiningDay"><strong>𝕏 @SunshiningDay</strong></a>
 </p>
